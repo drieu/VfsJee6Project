@@ -1,0 +1,7 @@
+<web-app version="2.5">
+    <display-name>JEE6 Demo Application</display-name>
+
+    <listener>
+        <listener-class>org.crsh.plugin.WebPluginLifeCycle</listener-class>
+    </listener>
+</web-app>
